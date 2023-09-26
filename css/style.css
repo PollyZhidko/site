@@ -60,7 +60,7 @@ main {
 
 .left {
     width: 20%;
-    background-color: #c270d2;
+    background-color: #9370DB;
     font-size: 18px;
     text-align: justify;
 }
@@ -90,7 +90,7 @@ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, O
     width: 79%;
     padding-left: 25px;
     width:1100px;
-    background-color: #c270d2;;
+    background-color: #9370DB;
 }
 .article {
     text-align: justify;

@@ -12,7 +12,7 @@ text-align: center;
     vertical-align: middle;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 50px;
-    color: #F8F8FF;
+    color: #9370DB;
 }
 .pointimg {
     height: 250px;
@@ -33,7 +33,7 @@ text-align: center;
 }
 
 nav {
-    background: #F8F8FF;
+    background: #9370DB;
 }
 
 .list {
@@ -60,7 +60,7 @@ main {
 
 .left {
     width: 20%;
-    background-color: #F8F8FF;
+    background-color: #9370DB;
     font-size: 18px;
     text-align: justify;
 }

@@ -33,7 +33,7 @@ text-align: center;
 }
 
 nav {
-    background: #9370DB;
+    background: ##E6E6FA;
 }
 
 .list {
@@ -60,7 +60,7 @@ main {
 
 .left {
     width: 20%;
-    background-color: #9370DB;
+    background-color: #E6E6FA;
     font-size: 18px;
     text-align: justify;
 }

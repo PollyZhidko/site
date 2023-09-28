@@ -4,14 +4,14 @@
 }
 .point { 
 vertical-align:middle;
-height: 36px;
+height: 128px;
 text-align: center;
     
 }
 .title {
     vertical-align: middle;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 250px;
+    font-size: 36px;
     color: ;
 }
 .pointimg {

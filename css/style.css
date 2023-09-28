@@ -1,6 +1,7 @@
 .logo {
     vertical-align: middle;
     height: 100px;
+    margin-top: 20px;
 }
 .point { 
 vertical-align:middle;
@@ -13,6 +14,7 @@ text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 36px;
     color:violet ;
+    margin-top: 10px;
 }
 .pointimg {
     height: 100px;

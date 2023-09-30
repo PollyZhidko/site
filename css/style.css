@@ -58,6 +58,8 @@ nav {
 
 main {
     display: flex;
+    flex-direction:row;
+    flex-wrap: nowrap;
 }
 
 .left {

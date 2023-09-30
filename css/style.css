@@ -67,8 +67,6 @@ main {
     display: block;
     width: 20%;
     background-color: #E6E6FA;
-    font-size: 18px;
-    text-align: justify;
   
 }
 .list1 {
@@ -96,8 +94,7 @@ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, O
 .right {
     /*float: right;*/
     display: block;
-    width: 79%;
-    padding-left: 25px;
+    width: 100%;
     background-color: #9370DB;
     
 }

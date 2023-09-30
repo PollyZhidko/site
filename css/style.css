@@ -104,9 +104,13 @@ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, O
 }
 
 footer {
-    background: #AAA;
     text-align: center;
     font-weight: bold;
+    float: right;
+    display: block;
+    width: 20%;
+    padding-left: 25px;
+    background-color: #AAA;
 }
 
 h2 {

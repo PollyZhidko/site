@@ -56,7 +56,7 @@ nav {
     color: black;
 }
 
-.main {
+main {
     display: flex;
     /*flex-direction:row;*/
     /*flex-wrap: nowrap;*/

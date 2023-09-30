@@ -62,7 +62,7 @@ footer {
     font-weight: bold;
 }
 
-main {
+.main {
     display: flex;
     flex-direction:row;
     flex-wrap: nowrap;

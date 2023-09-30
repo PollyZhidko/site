@@ -96,6 +96,7 @@ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, O
     display: block;
     width: 100%;
     background-color: #9370DB;
+    padding-left: 25px;
     
 }
 
